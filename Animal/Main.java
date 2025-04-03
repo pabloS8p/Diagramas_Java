@@ -10,7 +10,7 @@ public class Main {
         perro.respirar();
         ((Perro) perro).ladrar();
         
-        gato.respirar();s
+        gato.respirar();
         ((Gato) gato).maullar();
     }
 }
